@@ -1,3 +1,4 @@
+
 # 📞 SentinelCall AI
 
 ### AI Powered Scam Call Detection System
@@ -218,3 +219,4 @@ By combining **AI, mobile technology, and real-time data analysis**, the system 
 
 ⭐ If you like this project, please **star the repository**.
 
+THANKYOU
