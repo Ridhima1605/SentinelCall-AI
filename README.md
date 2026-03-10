@@ -113,11 +113,11 @@ User Alert System
 ### 🔹 Saksham Sodhi (Backend & Fraud Intelligence Engineer – Scam Detection Systems)
 
 
-Developed backend logic for SentinelCall AI to support scam detection features.
-Managed and processed scam number and spam message datasets.
-Designed a fraud probability engine to estimate the likelihood of scam calls.
-Implemented call risk scoring and analytics to identify suspicious call patterns.
-Improved system logic for more accurate and reliable scam detection.
+• Developed backend logic for SentinelCall AI to support scam detection features.
+• Managed and processed scam number and spam message datasets.
+• Designed a fraud probability engine to estimate the likelihood of scam calls.
+• Implemented call risk scoring and analytics to identify suspicious call patterns.
+• Improved system logic for more accurate and reliable scam detection.
 
 ---
 
