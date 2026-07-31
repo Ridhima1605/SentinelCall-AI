@@ -101,15 +101,6 @@ User Alert System
 
 ---
 
-### 🔹 Leena Tiwari (Mobile Application Developer)
-
-• Developed **Android mobile application**
-• Implemented **real-time call alert system**
-• Integrated backend APIs with the mobile app
-• Designed UI for scam warnings and notifications
-
----
-
 ### 🔹 Saksham Sodhi (Backend & Fraud Intelligence Engineer – Scam Detection Systems)
 
 
